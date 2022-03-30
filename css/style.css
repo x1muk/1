@@ -1,0 +1,20 @@
+body {
+    background-color: khaki;
+}
+
+h1 {
+    color: black;
+}
+
+.chapter {
+    color: red;
+}
+#fp {
+    color: orange;
+}
+
+p {
+    text-align: center;
+    font-size: 14px;
+    
+}
