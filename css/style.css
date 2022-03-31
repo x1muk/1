@@ -1,20 +1,23 @@
 body {
-    background-color: khaki;
-}
-
-h1 {
-    color: black;
-}
-
-.chapter {
-    color: red;
-}
-#fp {
-    color: orange;
+    background-color: rgb(255, 255, 224);
+    margin: 20px;
 }
 
 p {
+    font-size: 12px;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.header {
     text-align: center;
     font-size: 14px;
-    
+    color:  red;
+}
+
+.chapter {
+    text-align: center;
+    font-size: 14px;
 }
